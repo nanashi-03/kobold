@@ -48,7 +48,7 @@
 		"start:manager-prod": "NODE_OPTIONS='--max-old-space-size=4096' node dist/start-manager.js"
 	},
 	"dependencies": {
-		"@discordjs/rest": "1.1.0",
+		"@discordjs/rest": "1.7.1",
 		"@faker-js/faker": "^7.5.0",
 		"ajv-formats": "^2.1.1",
 		"class-transformer": "0.5.1",
